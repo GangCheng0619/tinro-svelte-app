@@ -4,19 +4,19 @@
 
 ### Documentation
 
-- 📝 Fix typo [`65ca1bee`](https://github.com/AlexxNB/tinro/commit/65ca1beeb38c131e83bedeff1869d7a52039ee98)
+- 📝 Fix typo [`d5fd8025`](https://github.com/WebpassionStar/tinro-svelte-app/commit/d5fd8025d5a6ef39179e867b6b71e22733702d32)
 
     *Thx to @sevensidedmarble for its PR*
 
 ### Other
 
-- Merge branch 'master' of github.com:AlexxNB/tinro [`35408142`](https://github.com/AlexxNB/tinro/commit/35408142fc0a2f10ae0f1fcd1e1ef8f4e1571963)
+- Merge branch 'master' of github.com:AlexxNB/tinro [`338b6e74`](https://github.com/WebpassionStar/tinro-svelte-app/commit/338b6e74aca4979c678a6b764b2db780aa205bd5)
 
 ## 0.6.7 - 2021-09-03
 
 ### Features
 
-- Add method to set base path for router ([#88](https://github.com/AlexxNB/tinro/issues/88)) [`d63dead7`](https://github.com/AlexxNB/tinro/commit/d63dead7be3a3bae181c51bf2e3df6cc0fecdfe9)
+- Add method to set base path for router ([#88](https://github.com/WebpassionStar/tinro-svelte-app/issues/88)) [`b25b92ba`](https://github.com/WebpassionStar/tinro-svelte-app/commit/b25b92baddf9a0d12a2cb3742a2ba16694541772)
 
     *resolve #88*
 
@@ -24,220 +24,217 @@
 
 ### Bug Fixes
 
-- Links with query or fragments are not have active class [`ddb22286`](https://github.com/AlexxNB/tinro/commit/ddb222868da9a26376319c835763eab2deb6aa45)
+- Links with query or fragments are not have active class [`4ed77bd0`](https://github.com/WebpassionStar/tinro-svelte-app/commit/4ed77bd0bfe0f9f2677cc4475861e488a8f21a2c)
 
     *#85*
-- Unmounted routes not to be deleted from parent's active childs. [`bc0c210c`](https://github.com/AlexxNB/tinro/commit/bc0c210c6a8d0570d0d5e1ad65feba655c4e5d1a)
+- Unmounted routes not to be deleted from parent's active childs. [`224b2911`](https://github.com/WebpassionStar/tinro-svelte-app/commit/224b29113ca8b622a394395955da44d58a3d40ec)
 
     *#84*
 
 ### Other
 
-- Merge pull request #83 from ItsiAdam/patch-1 ([#83](https://github.com/AlexxNB/tinro/issues/83)) [`d6549b97`](https://github.com/AlexxNB/tinro/commit/d6549b97d01484cfd071c33245b7340a4563c67c)
+- Merge pull request #83 from ItsiAdam/patch-1 ([#83](https://github.com/WebpassionStar/tinro-svelte-app/issues/83)) [`69126b64`](https://github.com/WebpassionStar/tinro-svelte-app/commit/69126b64bbc604e56b600817e1a72605bb7f796b)
 
     *fix typo :-)*
-- fix typo :-) [`03baf93c`](https://github.com/AlexxNB/tinro/commit/03baf93cba1b32e819255ba8a135a50d0f9c4f09)
-- Merge branch 'master' of github.com:AlexxNB/tinro [`23027a38`](https://github.com/AlexxNB/tinro/commit/23027a38c80bf4b10772d4ec1994220212349e55)
+- fix typo :-) [`c17451ad`](https://github.com/WebpassionStar/tinro-svelte-app/commit/c17451ad04ca77508e30f6e774ea945057f09b10)
+- Merge branch 'master' of github.com:AlexxNB/tinro [`27970965`](https://github.com/WebpassionStar/tinro-svelte-app/commit/279709655e2234592ce77af289301342aa042cd9)
 
 ## 0.6.5 - 2021-07-22
 
 ### Chores
 
-- ⬆️ Upgrade dependencies [`7329109d`](https://github.com/AlexxNB/tinro/commit/7329109da093994ee35443ed9f12e0df8d2fae15)
+- ⬆️ Upgrade dependencies [`7366e190`](https://github.com/WebpassionStar/tinro-svelte-app/commit/7366e1900fa60e374df40d57dda797673d049040)
 
 ### Tests
 
-- ✨ Use uvu for tests running [`94501da0`](https://github.com/AlexxNB/tinro/commit/94501da0310cf3317708e8f540c4ea79d6d2056d)
+- ✨ Use uvu for tests running [`8c941454`](https://github.com/WebpassionStar/tinro-svelte-app/commit/8c941454c5ea9505ca6d54567ed7a5b0349c837d)
 
 ## 0.6.4 - 2021-05-06
 
 ### Code Refactoring
 
-- 🏗 Create proto object for root and other routes [`8d23cff8`](https://github.com/AlexxNB/tinro/commit/8d23cff860b1a6dee114f713601c156bd9b3e9ea)
+- 🏗 Create proto object for root and other routes [`8821a549`](https://github.com/WebpassionStar/tinro-svelte-app/commit/8821a549b9a4b3ad89026e10affbd9fb36299c01)
 
 ## 0.6.3 - 2021-05-06
 
 ### Code Refactoring
 
-- 🏗 Add root component for all Routes, so no more any differences between root and nonrot routes [`b3cdb862`](https://github.com/AlexxNB/tinro/commit/b3cdb862fe4643cfa76f86b73484838a96355f76)
+- 🏗 Add root component for all Routes, so no more any differences between root and nonrot routes [`530bde08`](https://github.com/WebpassionStar/tinro-svelte-app/commit/530bde08145f40f4a1d4886af0127a5ab1f1178a)
 
 ## 0.6.2 - 2021-05-06
 
 ### Bug Fixes
 
-- 📝 Add forgeted link in table of content [`680c7c82`](https://github.com/AlexxNB/tinro/commit/680c7c8212f55032e3bea67e5dcb59fb84dd22b3)
+- 📝 Add forgeted link in table of content [`6812a773`](https://github.com/WebpassionStar/tinro-svelte-app/commit/6812a77300303314e14f2b13dbdce75a93013c3f)
 
 ### Documentation
 
-- 📝 Add note for Vite users [`cdadf9f3`](https://github.com/AlexxNB/tinro/commit/cdadf9f3dafa2c274c238b54f1a4fd24a12060e3)
-- 📝 Add reciepe about announcer ([#60](https://github.com/AlexxNB/tinro/issues/60)) [`8829e6bc`](https://github.com/AlexxNB/tinro/commit/8829e6bcfc0df33240a0c212ba4b522fa1463d47)
+- 📝 Add note for Vite users [`e0c7409b`](https://github.com/WebpassionStar/tinro-svelte-app/commit/e0c7409b2376370864d071e46112611d192002c5)
+- 📝 Add reciepe about announcer ([#60](https://github.com/WebpassionStar/tinro-svelte-app/issues/60)) [`19ea8811`](https://github.com/WebpassionStar/tinro-svelte-app/commit/19ea88116e2a36ac55cac8bb9054bf310a783a26)
 
     *Thanks to @kindoflew*
-- 📝 Add notice about using meta() inside Route only [`bd2940de`](https://github.com/AlexxNB/tinro/commit/bd2940de42153fa29bd7e712c9ea401e4b007e0e)
+- 📝 Add notice about using meta() inside Route only [`8bff8321`](https://github.com/WebpassionStar/tinro-svelte-app/commit/8bff8321070fc5dfc7160634b1a00a03830d16f0)
 
 ### Other
 
-- update versions [`f8a58a8d`](https://github.com/AlexxNB/tinro/commit/f8a58a8ddeef9b98ac33150bccef8b7cbda3d904)
-- Add test for conditional redirects [`42239e39`](https://github.com/AlexxNB/tinro/commit/42239e391cd6dcf61cbbc447eb81646fda493a31)
+- update versions [`71f41f91`](https://github.com/WebpassionStar/tinro-svelte-app/commit/71f41f9110a5a532926f2e07c244d2c4f27f3a40)
+- Add test for conditional redirects [`90345c27`](https://github.com/WebpassionStar/tinro-svelte-app/commit/90345c277e154e630e6e4c5e1644f53598f26e48)
 
 ### Code Refactoring
 
-- Remove useless(i hope) tick in redirect [`d8e185ee`](https://github.com/AlexxNB/tinro/commit/d8e185eec5a703b368ff46eae676f57bfbd550b0)
+- Remove useless(i hope) tick in redirect [`117045fd`](https://github.com/WebpassionStar/tinro-svelte-app/commit/117045fdb7794daa75f8f616e400425d08ff16f5)
 
 ## 0.6.1 - 2021-03-18
 
 ### Documentation
 
-- 🚸 Add error message when use meta out of `Route` context. ([#58](https://github.com/AlexxNB/tinro/issues/58)) [`fc5d591b`](https://github.com/AlexxNB/tinro/commit/fc5d591bfa7cc2a2e3426c5c2d148bdc8d839dd6)
+- 🚸 Add error message when use meta out of `Route` context. ([#58](https://github.com/WebpassionStar/tinro-svelte-app/issues/58)) [`428dc256`](https://github.com/WebpassionStar/tinro-svelte-app/commit/428dc2563e7dc40d439b0e12da6fce7138b7c6cf)
 
     *[#58](https://github.com/AlexxNB/tinro/issues/58)*
 
 ### Other
 
-- refactoring [`d2a818eb`](https://github.com/AlexxNB/tinro/commit/d2a818eb9c02a0598eee0c9e9ab3e260c2892439)
+- refactoring [`cfdd01ad`](https://github.com/WebpassionStar/tinro-svelte-app/commit/cfdd01add6c44482ec540e19922544da4b2ba46a)
 
 ### Chores
 
-- ⬆️ Upgrade [`88a04b26`](https://github.com/AlexxNB/tinro/commit/88a04b268cd19715ec8b257c74e3c3bb0122e2b0)
+- ⬆️ Upgrade [`d1c285d2`](https://github.com/WebpassionStar/tinro-svelte-app/commit/d1c285d256a054bbf80f1aaa39df45434284dd03)
 
 ## 0.6.0 - 2021-03-06
 
 ### Features
 
-- Add methods to set query and hash part of URL [`e84c4325`](https://github.com/AlexxNB/tinro/commit/e84c43259843445ded6cf00408ac684561b56c95)
+- Add methods to set query and hash part of URL [`a0bd0ea3`](https://github.com/WebpassionStar/tinro-svelte-app/commit/a0bd0ea320044372b9a4db1215484101b8ccb859)
 
 ## 0.5.15 - 2021-02-26
-
-### Other
-
-- refactroing merged PR workaround for redirects in hash mode [`3330c7de`](https://github.com/AlexxNB/tinro/commit/3330c7deddfec11bff37611c58a82e3292fd0919)
 
 ## 0.5.14 - 2021-02-26
 
 ### Other
 
-- revert change to npmignore [`91413806`](https://github.com/AlexxNB/tinro/commit/91413806d0472d3257d0f9dd1bfa30b60befe367)
-- change to npmignore and gitignore [`7277b537`](https://github.com/AlexxNB/tinro/commit/7277b537609bec3ed2ce02f74299f3ec94c5480f)
-- removes dist files [`7c143dcf`](https://github.com/AlexxNB/tinro/commit/7c143dcf752f6342de0e71d9b4cdaf6b32e1f0d4)
-- build [`9439e9c5`](https://github.com/AlexxNB/tinro/commit/9439e9c5430b8531ac80b434e1c96f089f6d2704)
-- fix types, change goto behavior [`a349afcd`](https://github.com/AlexxNB/tinro/commit/a349afcd9709ef41ef61af0475e5d9f1086526e8)
-- Add "replace" option for routes (#1) [`d051eab3`](https://github.com/AlexxNB/tinro/commit/d051eab30a7f7957141c2d3dccc48ea010148129)
+- refactroing merged PR workaround for redirects in hash mode [`61282915`](https://github.com/WebpassionStar/tinro-svelte-app/commit/61282915676ae06ecdbca07061b8bec896d4afba)
+- revert change to npmignore [`32c34ade`](https://github.com/WebpassionStar/tinro-svelte-app/commit/32c34adec5f0f3b23b532289a0afc62986d91b5e)
+- change to npmignore and gitignore [`32926015`](https://github.com/WebpassionStar/tinro-svelte-app/commit/32926015b4ec59c0e77b71b7f0cdee4438cf18e4)
+- removes dist files [`abe47b7d`](https://github.com/WebpassionStar/tinro-svelte-app/commit/abe47b7d802817e3760b9a02a5289b3b602f705c)
+- build [`383799d7`](https://github.com/WebpassionStar/tinro-svelte-app/commit/383799d7f5073755a8aca26a21c689a4137cb95c)
+- fix types, change goto behavior [`c4e1f4a6`](https://github.com/WebpassionStar/tinro-svelte-app/commit/c4e1f4a633d57687dce98da36e2333ef24f262df)
+- Add "replace" option for routes (#1) [`a4a5cc15`](https://github.com/WebpassionStar/tinro-svelte-app/commit/a4a5cc15ad798b9c59d68c807f7df2a731a8aea4)
 
 ## 0.5.13 - 2021-02-25
 
 ### Other
 
-- remove src from npmignore [`3e42a5f3`](https://github.com/AlexxNB/tinro/commit/3e42a5f34a6b94552d1eae29d44b613e8caf9300)
-- update deps [`6b2ec1a1`](https://github.com/AlexxNB/tinro/commit/6b2ec1a1585e3484ca277e81b7b721684a446587)
-- minor fixes [`36a64cab`](https://github.com/AlexxNB/tinro/commit/36a64cab857a1327008f1e4b3bae6fac0ea557ae)
-- Merge pull request #54 from mateomorris/master ([#54](https://github.com/AlexxNB/tinro/issues/54)) [`2c5b7484`](https://github.com/AlexxNB/tinro/commit/2c5b74840df973e4f1d1071c61ae1ea65d3fa4d3)
+- remove src from npmignore [`4c6cf210`](https://github.com/WebpassionStar/tinro-svelte-app/commit/4c6cf2102469f0ab5274f13f0c73d5b9980337cd)
+- update deps [`1dc4bab1`](https://github.com/WebpassionStar/tinro-svelte-app/commit/1dc4bab1734211553e88debf9ec491ecbc87379d)
+- minor fixes [`bf2680cc`](https://github.com/WebpassionStar/tinro-svelte-app/commit/bf2680ccbb834c01d6d80fb2f3a6656990eeaa08)
+- Merge pull request #54 from mateomorris/master ([#54](https://github.com/WebpassionStar/tinro-svelte-app/issues/54)) [`333bd58c`](https://github.com/WebpassionStar/tinro-svelte-app/commit/333bd58ce7e53a9dc79eefd2dda4390aa8315bad)
 
     *Use 'meta' in example instead of 'params'*
-- Use 'meta' in example instead of 'params' [`01b840c6`](https://github.com/AlexxNB/tinro/commit/01b840c63d5d7c763804576c72719fe8a3aa022e)
+- Use 'meta' in example instead of 'params' [`55a8b3b5`](https://github.com/WebpassionStar/tinro-svelte-app/commit/55a8b3b5a9717a891f7dbca27b7eb420f2b77945)
 
 ## 0.5.12 - 2021-02-03
 
 ### Other
 
-- separate meta from router [`7f6245c0`](https://github.com/AlexxNB/tinro/commit/7f6245c0916f519b932be7b5cc44b5f4cbc6dffc)
+- separate meta from router [`cf98dc96`](https://github.com/WebpassionStar/tinro-svelte-app/commit/cf98dc964ab3e84eb0cae085dad7094b04aa7413)
 
 ## 0.5.11 - 2021-01-29
 
 ### Other
 
-- resolve [#50](https://github.com/AlexxNB/tinro/issues/50) ([#50](https://github.com/AlexxNB/tinro/issues/50)) [`823cdda0`](https://github.com/AlexxNB/tinro/commit/823cdda08091c0aa231419d3480fdd3975b3e84e)
+- resolve [#50](https://github.com/AlexxNB/tinro/issues/50) ([#50](https://github.com/WebpassionStar/tinro-svelte-app/issues/50)) [`5fda2e68`](https://github.com/WebpassionStar/tinro-svelte-app/commit/5fda2e68ba9394ffb1545f89b0b7440407ac3623)
 
 ## 0.5.10 - 2021-01-29
 
 ### Other
 
-- fix [#50](https://github.com/AlexxNB/tinro/issues/50)#issuecomment-769808395 ([#50](https://github.com/AlexxNB/tinro/issues/50)) [`1af46ff0`](https://github.com/AlexxNB/tinro/commit/1af46ff061e74e28277773b56fe910ae4ee8cc7b)
+- fix [#50](https://github.com/AlexxNB/tinro/issues/50)#issuecomment-769808395 ([#50](https://github.com/WebpassionStar/tinro-svelte-app/issues/50)) [`3ef1807d`](https://github.com/WebpassionStar/tinro-svelte-app/commit/3ef1807dec68921b0aeaa36d76a5346c75d56bca)
 
 ## 0.5.9 - 2021-01-26
 
 ### Other
 
-- resolve [#49](https://github.com/AlexxNB/tinro/issues/49) ([#49](https://github.com/AlexxNB/tinro/issues/49)) [`6ef56147`](https://github.com/AlexxNB/tinro/commit/6ef56147495cfac2d5cb911e61caed9a96c72d00)
+- resolve [#49](https://github.com/AlexxNB/tinro/issues/49) ([#49](https://github.com/WebpassionStar/tinro-svelte-app/issues/49)) [`c2f0b509`](https://github.com/WebpassionStar/tinro-svelte-app/commit/c2f0b5093be1ac174dd46b7cf4b1eb5613dd1523)
 
 ## 0.5.8 - 2021-01-19
 
 ### Other
 
-- fix parent in redirects [`cd481dca`](https://github.com/AlexxNB/tinro/commit/cd481dcadbcaaf8652ce99a0eb1163d02002ba22)
-- Merge pull request #48 from kindoflew/edit-readme ([#48](https://github.com/AlexxNB/tinro/issues/48)) [`a9526942`](https://github.com/AlexxNB/tinro/commit/a952694217e06d617a1a441048ff184718b66714)
+- fix parent in redirects [`b41c70db`](https://github.com/WebpassionStar/tinro-svelte-app/commit/b41c70dba34158bab1f869662c5c6d230c35a0a1)
+- Merge pull request #48 from kindoflew/edit-readme ([#48](https://github.com/WebpassionStar/tinro-svelte-app/issues/48)) [`b0d88834`](https://github.com/WebpassionStar/tinro-svelte-app/commit/b0d8883460ab55e2e21a8ad3a8626ec2a98f6095)
 
     *edit README and COMPARE*
-- edit README and COMPARE [`3adcf96c`](https://github.com/AlexxNB/tinro/commit/3adcf96c48211438a7095bc163c1cf217f12b29d)
+- edit README and COMPARE [`f5ba3c18`](https://github.com/WebpassionStar/tinro-svelte-app/commit/f5ba3c18e7a771f8310d97b295b222ac7136c3fb)
 
 ## 0.5.7 - 2021-01-17
 
 ### Other
 
-- make Route props reactive [`b095d10e`](https://github.com/AlexxNB/tinro/commit/b095d10e35c08ffa4f0375739bca65d31326c94b)
+- make Route props reactive [`cd887cef`](https://github.com/WebpassionStar/tinro-svelte-app/commit/cd887cefe5f578fb6e16a6158f5591cfecb52698)
 
 ## 0.5.6 - 2021-01-08
 
 ### Other
 
-- fix hash change listener [#42](https://github.com/AlexxNB/tinro/issues/42) ([#42](https://github.com/AlexxNB/tinro/issues/42)) [`495e294e`](https://github.com/AlexxNB/tinro/commit/495e294e71491785bfdb7e733cf271707875e71f)
+- fix hash change listener [#42](https://github.com/AlexxNB/tinro/issues/42) ([#42](https://github.com/WebpassionStar/tinro-svelte-app/issues/42)) [`a3bf6670`](https://github.com/WebpassionStar/tinro-svelte-app/commit/a3bf6670a46923f8178c69743b0a934623bcd65c)
 
 ## 0.5.5 - 2021-01-07
 
 ### Other
 
-- fix format [`186782f0`](https://github.com/AlexxNB/tinro/commit/186782f07eb9e100c44c565b02265da0ac4995a5)
+- fix format [`3030ae8e`](https://github.com/WebpassionStar/tinro-svelte-app/commit/3030ae8ed7880061e05e785b23a612d939c682ae)
 
 ## 0.5.4 - 2021-01-07
 
 ### Other
 
-- build correct module bundles [`754f4851`](https://github.com/AlexxNB/tinro/commit/754f48518e86065e6a49ab82c007c9e116a5c2ea)
-- add meta.query in contents [`dd96d17f`](https://github.com/AlexxNB/tinro/commit/dd96d17f936b9d365041ccc757e5c8e8db357424)
+- build correct module bundles [`fe41d544`](https://github.com/WebpassionStar/tinro-svelte-app/commit/fe41d5441907f32c5d49c1f549ad7aeaa9843156)
+- add meta.query in contents [`344227e8`](https://github.com/WebpassionStar/tinro-svelte-app/commit/344227e8b63633ae2886c40b2b7acebb71825e11)
 
 ## 0.5.3 - 2021-01-04
 
 ### Other
 
-- fix [`619f4ed2`](https://github.com/AlexxNB/tinro/commit/619f4ed26b010529dfb7a0fb3ea9725117aa5bf9)
+- fix [`2b55c849`](https://github.com/WebpassionStar/tinro-svelte-app/commit/2b55c849e6b245753126f07a7d477fedc8a33a59)
 
 ## 0.5.2 - 2021-01-04
 
 ### Other
 
-- refactoring [`10c925d9`](https://github.com/AlexxNB/tinro/commit/10c925d908ebcfb86b1a521c4fe4da6a8537c8cf)
-- added in memory navigation refactoring [`7474bce5`](https://github.com/AlexxNB/tinro/commit/7474bce5056d5149c5d8ab68360f3eda03bc1a29)
-- update API [`8fa450a8`](https://github.com/AlexxNB/tinro/commit/8fa450a8bc399e3dbc2ce9a539b123d50740bdab)
+- refactoring [`97e21a4c`](https://github.com/WebpassionStar/tinro-svelte-app/commit/97e21a4c2639ce571b6a85b81210bceb23090c6d)
+- added in memory navigation refactoring [`18112939`](https://github.com/WebpassionStar/tinro-svelte-app/commit/18112939e8600312e825a6145f4e0181148054e6)
+- update API [`4c992386`](https://github.com/WebpassionStar/tinro-svelte-app/commit/4c992386f647e71c24362836add73f6108ee2a4d)
 
 ## 0.5.1 - 2021-01-02
 
 ### Other
 
-- edit Readme [`a8245fa7`](https://github.com/AlexxNB/tinro/commit/a8245fa7ee52ec3140744706411b12d3354649f5)
+- edit Readme [`820d0ad1`](https://github.com/WebpassionStar/tinro-svelte-app/commit/820d0ad1e9805bc4f3bdc72016460e44c68498b3)
 
 ## 0.5.0 - 2021-01-02
 
 ### Other
 
-- new route meta data [`b7240a01`](https://github.com/AlexxNB/tinro/commit/b7240a01dab4ca510b0fd90fab098c5fc85757c5)
+- new route meta data [`90cf366d`](https://github.com/WebpassionStar/tinro-svelte-app/commit/90cf366dfad09359b03cd5c43eabd9c339929c7a)
 
 ## 0.4.11 - 2021-01-02
 
 ### Other
 
-- add params for slot definition [`273c2fdd`](https://github.com/AlexxNB/tinro/commit/273c2fdd46f38478d7ed7da9b535f1a74251eb17)
+- add params for slot definition [`4e3d8b8f`](https://github.com/WebpassionStar/tinro-svelte-app/commit/4e3d8b8f5dfe11331ba8805ddc45dbb5c7cb2159)
 
 ## 0.4.10 - 2020-12-30
 
 ### Other
 
-- fix build [`a78de9f9`](https://github.com/AlexxNB/tinro/commit/a78de9f97066aecf8fc35a655aec8e97c0bcd7fb)
+- fix build [`2accbcc4`](https://github.com/WebpassionStar/tinro-svelte-app/commit/2accbcc44e8880e5c6dba9acdcefebb55946cdb3)
 
 ## 0.4.9 - 2020-12-30
 
 ### Other
 
-- use esbuild for bundling instead rollup [`8f739831`](https://github.com/AlexxNB/tinro/commit/8f739831f9ae9a5e498f3cbda0f9dd3bc09a2f3c)
-- fix readme [`fd41f4a3`](https://github.com/AlexxNB/tinro/commit/fd41f4a3ec2f1f3c500032c51899e48a5c538f03)
+- use esbuild for bundling instead rollup [`7b78a8e6`](https://github.com/WebpassionStar/tinro-svelte-app/commit/7b78a8e653044645149bb2f99a8913f7fba67431)
+- fix readme [`54df547e`](https://github.com/WebpassionStar/tinro-svelte-app/commit/54df547e2f60eaeacf534045835f82b8a3e7d756)
 
 ## 0.4.8 - 2020-12-30
 
@@ -245,41 +242,41 @@
 
 ### Other
 
-- add firstmatch property resolve [#39](https://github.com/AlexxNB/tinro/issues/39) resolve [#31](https://github.com/AlexxNB/tinro/issues/31) resolve [#7](https://github.com/AlexxNB/tinro/issues/7) ([#39](https://github.com/AlexxNB/tinro/issues/39), [#31](https://github.com/AlexxNB/tinro/issues/31), [#7](https://github.com/AlexxNB/tinro/issues/7)) [`ec946494`](https://github.com/AlexxNB/tinro/commit/ec9464949b263de3f7723f7eb4800af25882fd7b)
+- add firstmatch property resolve [#39](https://github.com/AlexxNB/tinro/issues/39) resolve [#31](https://github.com/AlexxNB/tinro/issues/31) resolve [#7](https://github.com/AlexxNB/tinro/issues/7) ([#39](https://github.com/WebpassionStar/tinro-svelte-app/issues/39), [#31](https://github.com/WebpassionStar/tinro-svelte-app/issues/31), [#7](https://github.com/WebpassionStar/tinro-svelte-app/issues/7)) [`5dfe18ba`](https://github.com/WebpassionStar/tinro-svelte-app/commit/5dfe18ba8094457ec9a15ebf926f30656aa8fa7a)
 
 ## 0.4.6 - 2020-12-16
 
 ### Other
 
-- fix links [`4978875d`](https://github.com/AlexxNB/tinro/commit/4978875d820010468a72c99730ba3f2faa6ba20d)
+- fix links [`c367e21c`](https://github.com/WebpassionStar/tinro-svelte-app/commit/c367e21cfae180b5c833db1b08834af8088b30b3)
 
 ## 0.4.5 - 2020-12-09
 
 ### Other
 
-- fix hashed links [`a416b2f8`](https://github.com/AlexxNB/tinro/commit/a416b2f8686e01cab26fbe1348bd86c41fee2838)
+- fix hashed links [`a51fe97e`](https://github.com/WebpassionStar/tinro-svelte-app/commit/a51fe97eb5fef7650cffacd429db391d3684293d)
 
 ## 0.4.4 - 2020-12-09
 
 ### Other
 
-- refactoring [`232eefeb`](https://github.com/AlexxNB/tinro/commit/232eefebbb831e0e21fc89ca4983b3daa8729522)
-- Merge pull request #30 from jacobmischka/fix-click-handler ([#30](https://github.com/AlexxNB/tinro/issues/30)) [`6eab81bb`](https://github.com/AlexxNB/tinro/commit/6eab81bb86931b49cff68606f74a6e3a785e47fb)
+- refactoring [`264800b4`](https://github.com/WebpassionStar/tinro-svelte-app/commit/264800b476413b902ed37877d6d521a8a9e31a8e)
+- Merge pull request #30 from jacobmischka/fix-click-handler ([#30](https://github.com/WebpassionStar/tinro-svelte-app/issues/30)) [`ebb5da32`](https://github.com/WebpassionStar/tinro-svelte-app/commit/ebb5da32fc62e49fdf3c719d46107c07a9623e65)
 
     *Check for anchor before attempting to get href*
-- Check for anchor before attempting to get href [`073b8089`](https://github.com/AlexxNB/tinro/commit/073b8089714e742d67f7a00f8525c0d6e2c13c54)
+- Check for anchor before attempting to get href [`5f1b8f47`](https://github.com/WebpassionStar/tinro-svelte-app/commit/5f1b8f47ef3c26bcb1604493fe9357641ee4fd7f)
 
 ## 0.4.3 - 2020-12-09
 
 ### Other
 
-- fix relative links [`0cb4bd7e`](https://github.com/AlexxNB/tinro/commit/0cb4bd7eb2176b7bf2ac4ae279e450b4dd3452da)
+- fix relative links [`f13ca307`](https://github.com/WebpassionStar/tinro-svelte-app/commit/f13ca30793f1c4ee0fb26efc5d15bd6fbb4c7631)
 
 ## 0.4.2 - 2020-12-04
 
 ### Other
 
-- add error messages [`5607bc7a`](https://github.com/AlexxNB/tinro/commit/5607bc7aa34b0416a4a8a6ac59f9af323b72fcf2)
+- add error messages [`506e364c`](https://github.com/WebpassionStar/tinro-svelte-app/commit/506e364c73339f9993b25b8097141fa0d6fae8b4)
 
 ## 0.4.1 - 2020-12-03
 
@@ -287,13 +284,13 @@
 
 ### Other
 
-- new routes matching conception [`a95094c0`](https://github.com/AlexxNB/tinro/commit/a95094c0215b9eccbb94550165df8bcdfe4754d1)
+- new routes matching conception [`1daec5cd`](https://github.com/WebpassionStar/tinro-svelte-app/commit/1daec5cd60294abb89f199a13d303a2253563db1)
 
 ## 0.3.7 - 2020-09-30
 
 ### Other
 
-- Merge pull request #26 from blissini/master ([#26](https://github.com/AlexxNB/tinro/issues/26)) [`95f4d393`](https://github.com/AlexxNB/tinro/commit/95f4d393efe53313c5bf5540dcc6bd4cb5fcedb8)
+- Merge pull request #26 from blissini/master ([#26](https://github.com/WebpassionStar/tinro-svelte-app/issues/26)) [`aacae437`](https://github.com/WebpassionStar/tinro-svelte-app/commit/aacae43782313277402feac6223f9fc9355507e9)
 
     *fixed typos in README*
 
@@ -301,13 +298,13 @@
 
 ### Other
 
-- updtae Readme with key operator [`2f39df41`](https://github.com/AlexxNB/tinro/commit/2f39df41b9637ef8bfbe8432f5b75a7b639234f0)
-- update versions [`60cd977a`](https://github.com/AlexxNB/tinro/commit/60cd977ac2cf0711b8d72bd0370523958bf62806)
-- fixed some typos in README [`db37393e`](https://github.com/AlexxNB/tinro/commit/db37393e84110a3edd45bf875088809cb4e128ca)
-- Merge pull request #24 from AlexxNB/dependabot/npm_and_yarn/bl-4.0.3 ([#24](https://github.com/AlexxNB/tinro/issues/24)) [`ff68f135`](https://github.com/AlexxNB/tinro/commit/ff68f1356e23d6433241bbc2b303e2aec1b9c367)
+- updtae Readme with key operator [`4ab64089`](https://github.com/WebpassionStar/tinro-svelte-app/commit/4ab640897fb882d9fd1bd75bd41550e62e39f212)
+- update versions [`2da13945`](https://github.com/WebpassionStar/tinro-svelte-app/commit/2da13945a09d0fcaaae800785199695516f15892)
+- fixed some typos in README [`ac3747df`](https://github.com/WebpassionStar/tinro-svelte-app/commit/ac3747df1202c3c051e375d5d9f2c2b8d76a81cd)
+- Merge pull request #24 from AlexxNB/dependabot/npm_and_yarn/bl-4.0.3 ([#24](https://github.com/WebpassionStar/tinro-svelte-app/issues/24)) [`ac2420cc`](https://github.com/WebpassionStar/tinro-svelte-app/commit/ac2420cc626a4b6b9ec978a90d4dedaaf8ef6692)
 
     *Bump bl from 4.0.2 to 4.0.3*
-- Bump bl from 4.0.2 to 4.0.3 [`1ba11784`](https://github.com/AlexxNB/tinro/commit/1ba11784100227b4575411d59109dfbcf0d48dd6)
+- Bump bl from 4.0.2 to 4.0.3 [`e76202c7`](https://github.com/WebpassionStar/tinro-svelte-app/commit/e76202c77a16d9433e2aebc5b24bcdfec8ae9f5a)
 
     *Bumps [bl](https://github.com/rvagg/bl) from 4.0.2 to 4.0.3. - [Release notes](https://github.com/rvagg/bl/releases) - [Commits](https://github.com/rvagg/bl/compare/v4.0.2...v4.0.3)*
 
@@ -315,164 +312,164 @@
 
 ### Other
 
-- oops [`1ec06fd1`](https://github.com/AlexxNB/tinro/commit/1ec06fd1ff3efbb39bbd5daab60439a5b9bca678)
+- oops [`e857652d`](https://github.com/WebpassionStar/tinro-svelte-app/commit/e857652d6be0f39ec3ebd43aa149295c649f6a70)
 
 ## 0.3.4 - 2020-09-01
 
 ### Other
 
-- type deffinition for the Router component [`d9effe09`](https://github.com/AlexxNB/tinro/commit/d9effe09ef0500f146c4501670f5a6ca03ac50b2)
+- type deffinition for the Router component [`599d344a`](https://github.com/WebpassionStar/tinro-svelte-app/commit/599d344a8328b535df1281c3fcf507831cd7eb88)
 
 ## 0.3.3 - 2020-08-14
 
 ### Other
 
-- fix [#16](https://github.com/AlexxNB/tinro/issues/16) ([#16](https://github.com/AlexxNB/tinro/issues/16)) [`4414f8ca`](https://github.com/AlexxNB/tinro/commit/4414f8ca44c568289c4ed3fcee52606361737a70)
-- update deps [`be3a6d4a`](https://github.com/AlexxNB/tinro/commit/be3a6d4a752380d55169adfffea4c68cc0a856d7)
+- fix [#16](https://github.com/AlexxNB/tinro/issues/16) ([#16](https://github.com/WebpassionStar/tinro-svelte-app/issues/16)) [`bb5601b5`](https://github.com/WebpassionStar/tinro-svelte-app/commit/bb5601b5926e8e770dc2f5953d4d3108de1300fb)
+- update deps [`362c061f`](https://github.com/WebpassionStar/tinro-svelte-app/commit/362c061fb44dbd0c91def85ace4a238ed7f704c7)
 
 ## 0.3.2 - 2020-08-13
 
 ### Other
 
-- update deps [`e3101958`](https://github.com/AlexxNB/tinro/commit/e310195840f971550003823c07249ed70437a5b6)
+- update deps [`e257c1b3`](https://github.com/WebpassionStar/tinro-svelte-app/commit/e257c1b3f64cec80b3565d57e4a3b871dd5d4935)
 
 ## 0.3.1 - 2020-07-29
 
 ### Other
 
-- Merge pull request #19 from jnordberg/master ([#19](https://github.com/AlexxNB/tinro/issues/19)) [`e8f62c35`](https://github.com/AlexxNB/tinro/commit/e8f62c35e4685f475337f3128ba3986a396afabf)
+- Merge pull request #19 from jnordberg/master ([#19](https://github.com/WebpassionStar/tinro-svelte-app/issues/19)) [`6cf7ddd4`](https://github.com/WebpassionStar/tinro-svelte-app/commit/6cf7ddd4f37f93beec303cd8f33331f59bec174b)
 
     *Improve TypeScript types*
-- Extension apparently has to be in separate declaration to be picked up [`503a9e3f`](https://github.com/AlexxNB/tinro/commit/503a9e3f3be2a523ba60606a35965ba8e50ab1f8)
-- Fix types [`1d33f7d5`](https://github.com/AlexxNB/tinro/commit/1d33f7d5f75ff60174fe5420faede85528c2c9cb)
-- add types [`f949285b`](https://github.com/AlexxNB/tinro/commit/f949285b0228da221bf3375b04bdcd15d9142c86)
-- add gzipped size in compare [`b53835d4`](https://github.com/AlexxNB/tinro/commit/b53835d4f36e7b0cea3ec0577b8bb3b366b44ae7)
-- add error handling [`4ed8f1ca`](https://github.com/AlexxNB/tinro/commit/4ed8f1ca2936263db2ddf73d0b66e35f6c029711)
+- Extension apparently has to be in separate declaration to be picked up [`00ed1a8c`](https://github.com/WebpassionStar/tinro-svelte-app/commit/00ed1a8c31eee660143c1ed771b6dca3c4a9d190)
+- Fix types [`0a1e2a0f`](https://github.com/WebpassionStar/tinro-svelte-app/commit/0a1e2a0fa86670ff8e640b3483ac839b813c82d1)
+- add types [`a95b317a`](https://github.com/WebpassionStar/tinro-svelte-app/commit/a95b317a8d2fcb9eedabcefaf38a5b632d70a6dc)
+- add gzipped size in compare [`a7c95757`](https://github.com/WebpassionStar/tinro-svelte-app/commit/a7c9575734a9583a6791089f631c2f7a63041d06)
+- add error handling [`8e092740`](https://github.com/WebpassionStar/tinro-svelte-app/commit/8e0927407b60ecff29914c2df47e3a8ae4ab8657)
 
 ## 0.3.0 - 2020-07-27
 
 ### Other
 
-- add relative redirects [`6f34dd09`](https://github.com/AlexxNB/tinro/commit/6f34dd09745d4f8a68593da6a4457fd78ed56502)
-- huge refactoring, use store for routes logic [`f8eb0b7f`](https://github.com/AlexxNB/tinro/commit/f8eb0b7f95736532955078c3be1ac8d8fe1309e3)
+- add relative redirects [`820434de`](https://github.com/WebpassionStar/tinro-svelte-app/commit/820434deca892c8ebf7eff9ceffbbb7a05d27653)
+- huge refactoring, use store for routes logic [`38571e9f`](https://github.com/WebpassionStar/tinro-svelte-app/commit/38571e9f7495b268d6fc8f4d864c398146e6b1a5)
 
 ## 0.2.10 - 2020-05-26
 
 ### Other
 
-- fix [#15](https://github.com/AlexxNB/tinro/issues/15) ([#15](https://github.com/AlexxNB/tinro/issues/15)) [`0642b36f`](https://github.com/AlexxNB/tinro/commit/0642b36f1ab964ef02273da0fb9e1c769d555440)
+- fix [#15](https://github.com/AlexxNB/tinro/issues/15) ([#15](https://github.com/WebpassionStar/tinro-svelte-app/issues/15)) [`fd3ee117`](https://github.com/WebpassionStar/tinro-svelte-app/commit/fd3ee11743d87f31185749766293f5bdcb0e59c0)
 
 ## 0.2.9 - 2020-05-16
 
 ### Other
 
-- remove browser bundle [`ed0bc4b5`](https://github.com/AlexxNB/tinro/commit/ed0bc4b5fd15456333c29cae0bd0b8a7383bcdc4)
-- Merge pull request #13 from ronthecookie/patch-1 ([#13](https://github.com/AlexxNB/tinro/issues/13)) [`9d07484a`](https://github.com/AlexxNB/tinro/commit/9d07484a3d77b4e666b527a2bb8bfea9d9c8f584)
+- remove browser bundle [`f50e7eec`](https://github.com/WebpassionStar/tinro-svelte-app/commit/f50e7eec609ccbfd640f8d8ffba334517ff91b66)
+- Merge pull request #13 from ronthecookie/patch-1 ([#13](https://github.com/WebpassionStar/tinro-svelte-app/issues/13)) [`445dedaa`](https://github.com/WebpassionStar/tinro-svelte-app/commit/445dedaa7f2a6f3c45768161d2e2d052affd1b8c)
 
     *Fix typo in README*
-- Fix typo in README [`f0f6ace9`](https://github.com/AlexxNB/tinro/commit/f0f6ace9ac6c6f395ad85b53a669a79f622535ec)
+- Fix typo in README [`f99667b4`](https://github.com/WebpassionStar/tinro-svelte-app/commit/f99667b443f09e2c1f17e57387ce61490d4c04ce)
 
 ## 0.2.8 - 2020-05-14
 
 ### Other
 
-- fix [#12](https://github.com/AlexxNB/tinro/issues/12) ([#12](https://github.com/AlexxNB/tinro/issues/12)) [`49898c1d`](https://github.com/AlexxNB/tinro/commit/49898c1d7962d5fce0cbdcd2455c508481cb7bb1)
+- fix [#12](https://github.com/AlexxNB/tinro/issues/12) ([#12](https://github.com/WebpassionStar/tinro-svelte-app/issues/12)) [`31697435`](https://github.com/WebpassionStar/tinro-svelte-app/commit/3169743521db5e2a049ea467ef195219d4c26b8b)
 
 ## 0.2.7 - 2020-05-12
 
 ### Other
 
-- fix ignore attribute remove after first click [`6b5ad033`](https://github.com/AlexxNB/tinro/commit/6b5ad03374b5e19b215d6e733b27bc5d4f355de4)
+- fix ignore attribute remove after first click [`855e9a08`](https://github.com/WebpassionStar/tinro-svelte-app/commit/855e9a08cb3ba1a71376a2ee24710a670159d253)
 
 ## 0.2.6 - 2020-05-10
 
 ### Other
 
-- add guarded routes recipe from [#9](https://github.com/AlexxNB/tinro/issues/9) ([#9](https://github.com/AlexxNB/tinro/issues/9)) [`575e332a`](https://github.com/AlexxNB/tinro/commit/575e332a0700f8d45d4867af70278380afad7bc8)
+- add guarded routes recipe from [#9](https://github.com/AlexxNB/tinro/issues/9) ([#9](https://github.com/WebpassionStar/tinro-svelte-app/issues/9)) [`0f1891c1`](https://github.com/WebpassionStar/tinro-svelte-app/commit/0f1891c100d7902903f784ebd5b71d112511f7a3)
 
 ## 0.2.5 - 2020-05-09
 
 ### Other
 
-- add tinro-ignore options propsed at [#11](https://github.com/AlexxNB/tinro/issues/11) ([#11](https://github.com/AlexxNB/tinro/issues/11)) [`cb9b844f`](https://github.com/AlexxNB/tinro/commit/cb9b844f9d15501aec444364ddf0a00869273c77)
+- add tinro-ignore options propsed at [#11](https://github.com/AlexxNB/tinro/issues/11) ([#11](https://github.com/WebpassionStar/tinro-svelte-app/issues/11)) [`ee284f9a`](https://github.com/WebpassionStar/tinro-svelte-app/commit/ee284f9ade400b126dd350a60575ad723e79aa95)
 
 ## 0.2.4 - 2020-04-28
 
 ### Other
 
-- add [#4](https://github.com/AlexxNB/tinro/issues/4) ([#4](https://github.com/AlexxNB/tinro/issues/4)) [`e35eacd1`](https://github.com/AlexxNB/tinro/commit/e35eacd1b942a79dcc15d16fa9720653eddb3f39)
-- More universal Lazy component [`dd4022e7`](https://github.com/AlexxNB/tinro/commit/dd4022e77e71af1a70cf9c696cc11f6a52b98a6a)
-- Merge pull request #6 from frederikhors/patch-2 ([#6](https://github.com/AlexxNB/tinro/issues/6)) [`160beebe`](https://github.com/AlexxNB/tinro/commit/160beebea4f1255a7239976b3ff085cd42f9c606)
+- add [#4](https://github.com/AlexxNB/tinro/issues/4) ([#4](https://github.com/WebpassionStar/tinro-svelte-app/issues/4)) [`3f753f03`](https://github.com/WebpassionStar/tinro-svelte-app/commit/3f753f03d588974553eaccebd46d3928e60b750d)
+- More universal Lazy component [`43b99b4c`](https://github.com/WebpassionStar/tinro-svelte-app/commit/43b99b4ccc9dfebf85ba3d5bd708a3eed7778657)
+- Merge pull request #6 from frederikhors/patch-2 ([#6](https://github.com/WebpassionStar/tinro-svelte-app/issues/6)) [`4a6b18bd`](https://github.com/WebpassionStar/tinro-svelte-app/commit/4a6b18bd68c6d9a1a57f2d23dfc28cb1954a31cf)
 
     *Misprints*
-- Merge pull request #5 from frederikhors/patch-1 ([#5](https://github.com/AlexxNB/tinro/issues/5)) [`908f82bf`](https://github.com/AlexxNB/tinro/commit/908f82bfe6e09f0bffb846bd71f6cd2285d0068b)
+- Merge pull request #5 from frederikhors/patch-1 ([#5](https://github.com/WebpassionStar/tinro-svelte-app/issues/5)) [`a3a92440`](https://github.com/WebpassionStar/tinro-svelte-app/commit/a3a92440d991c19612e895cca22a53316de10ec2)
 
     *Misprint*
-- Misprints [`55f8d8a6`](https://github.com/AlexxNB/tinro/commit/55f8d8a6e2932dc4b5d047edadcccb63cb131798)
-- Misprint [`285792fe`](https://github.com/AlexxNB/tinro/commit/285792fe89cfc8c36a49ff533af9c42637d4a670)
-- minor edits in readme [`9e40c0c8`](https://github.com/AlexxNB/tinro/commit/9e40c0c8729bd98a5092721cac9ec05d7b7b0ac7)
-- fix link [`eae49955`](https://github.com/AlexxNB/tinro/commit/eae499558f0fee83fa369d81ba98de6f704cb008)
-- fix typo [`4b1edab7`](https://github.com/AlexxNB/tinro/commit/4b1edab7466b6750da847adbce726ea0ee62d9ed)
+- Misprints [`6561e257`](https://github.com/WebpassionStar/tinro-svelte-app/commit/6561e257ee24c1316e1ec03b9b07260bb5a3c06e)
+- Misprint [`d5e45bc4`](https://github.com/WebpassionStar/tinro-svelte-app/commit/d5e45bc4a82bd31f0aa00bc2ef0c62e014be078c)
+- minor edits in readme [`9a9a050d`](https://github.com/WebpassionStar/tinro-svelte-app/commit/9a9a050d036f8c165920343c539cf2ca12426987)
+- fix link [`c0bc0b3f`](https://github.com/WebpassionStar/tinro-svelte-app/commit/c0bc0b3f9474d397ee59237f23ab7c3769d046a8)
+- fix typo [`e58698b6`](https://github.com/WebpassionStar/tinro-svelte-app/commit/e58698b6b9e736d4ab741bb58ebb108ee2fb6b96)
 
 ## 0.2.3 - 2020-04-27
 
 ### Other
 
-- Add recipies [`6649173b`](https://github.com/AlexxNB/tinro/commit/6649173b5d46f8be90c85b101eec4e9dcc72ead2)
+- Add recipies [`810da4b1`](https://github.com/WebpassionStar/tinro-svelte-app/commit/810da4b1c9d02e94968c116a8207ad1bd1fc31fe)
 
 ## 0.2.2 - 2020-04-25
 
 ### Other
 
-- fix, active action doesn't work with hashed style path [`dd3cb07d`](https://github.com/AlexxNB/tinro/commit/dd3cb07d0976fa24d9ce4763c68cf6c2e2efa700)
-- fix typo [`f4147883`](https://github.com/AlexxNB/tinro/commit/f4147883efae0d9843f3cce27d5a18283af5d806)
+- fix, active action doesn't work with hashed style path [`b73f9b53`](https://github.com/WebpassionStar/tinro-svelte-app/commit/b73f9b53b071fd9fcca6b5eb75e78168ff5dc0cb)
+- fix typo [`ece58bb7`](https://github.com/WebpassionStar/tinro-svelte-app/commit/ece58bb75d16502057f5ad0ec675e6e4b79f7ef2)
 
 ## 0.2.1 - 2020-04-25
 
 ### Other
 
-- add active action to mark active links [`74bb6603`](https://github.com/AlexxNB/tinro/commit/74bb660397b6876955d62631a1dab810e4dbc381)
-- add tests [`758453a6`](https://github.com/AlexxNB/tinro/commit/758453a6bfeb83bfe68440fa0062317e167c119d)
-- fix build bage [`bd9221bf`](https://github.com/AlexxNB/tinro/commit/bd9221bfe0a7b075b2a8e704c2d708d267c432dd)
-- fix test [`e6ba03bb`](https://github.com/AlexxNB/tinro/commit/e6ba03bb78b09df125d83f9f9e042ef932f7aa56)
-- add badges [`df575f66`](https://github.com/AlexxNB/tinro/commit/df575f66958267d5b69a4e00f698fcfe4e0a64fb)
-- add REPL example [`cb5f6e38`](https://github.com/AlexxNB/tinro/commit/cb5f6e3898f53c6f83915c4d08360caedcd2cbd1)
-- add test for hash navigation [`296f8778`](https://github.com/AlexxNB/tinro/commit/296f87788e6ef28942f857a85f37f6a0d2cf22f4)
-- add hash feature in list [`d94717b0`](https://github.com/AlexxNB/tinro/commit/d94717b05e624b4af2b576bce93dbe69d6bbb276)
+- add active action to mark active links [`e7237515`](https://github.com/WebpassionStar/tinro-svelte-app/commit/e7237515841974b1d48016d9248de80e2c85b80a)
+- add tests [`91ea0fb3`](https://github.com/WebpassionStar/tinro-svelte-app/commit/91ea0fb33ca12154274fbd71397eb253b6ab7ba5)
+- fix build bage [`ce6b5fa9`](https://github.com/WebpassionStar/tinro-svelte-app/commit/ce6b5fa93db24213cf8860404bbbf35c7df20f84)
+- fix test [`e9cff078`](https://github.com/WebpassionStar/tinro-svelte-app/commit/e9cff0783d28e51820e537a026f675c1749b160c)
+- add badges [`38760ed8`](https://github.com/WebpassionStar/tinro-svelte-app/commit/38760ed885c58caac515b425e62949deffdef916)
+- add REPL example [`29a6bd74`](https://github.com/WebpassionStar/tinro-svelte-app/commit/29a6bd744250e13cca57ebf2d614a1ef9e3b7664)
+- add test for hash navigation [`7e541530`](https://github.com/WebpassionStar/tinro-svelte-app/commit/7e541530f4af64c9b67c781b678f6480663ee338)
+- add hash feature in list [`bf21ade4`](https://github.com/WebpassionStar/tinro-svelte-app/commit/bf21ade420f2e8951db577d6d18afda87b6803ed)
 
 ## 0.2.0 - 2020-04-18
 
 ### Other
 
-- add hash navigation method [`aa762d19`](https://github.com/AlexxNB/tinro/commit/aa762d191def32f5f1498f1c37c11ece3dee4a89)
-- edit Readme [`1aee13cd`](https://github.com/AlexxNB/tinro/commit/1aee13cd6c53c2bfb2e786d17b98aad5fd678f79)
-- fix error message [`5238fb2b`](https://github.com/AlexxNB/tinro/commit/5238fb2b03fc83465a9e6e96c9a652adeab8c8b4)
-- impliment unholded rejection in script [`a7a0ba5d`](https://github.com/AlexxNB/tinro/commit/a7a0ba5d8d41654afe22bfe9fa14046fdfb1d3b5)
-- fix unkilled dev server [`caa51846`](https://github.com/AlexxNB/tinro/commit/caa518466080edd78e00d99f940fd74d0a01961f)
-- fail test on error with promises [`134a40b2`](https://github.com/AlexxNB/tinro/commit/134a40b2887433c7f0a321a73345806caa5d568e)
-- add npm publish workflow [`084170d9`](https://github.com/AlexxNB/tinro/commit/084170d90fd34fb98b99c67f5e714169a3daccb5)
-- fix import for Route [`110aae33`](https://github.com/AlexxNB/tinro/commit/110aae3313da8eac89cba0a28a0fc6750f065cad)
-- add table of contents [`58b8e5bb`](https://github.com/AlexxNB/tinro/commit/58b8e5bb8abcd66e0c8b565bc27886bbf1f29223)
-- add install chapter [`0566a886`](https://github.com/AlexxNB/tinro/commit/0566a8864b5de3e4200be8fb4c3ad5e94a079ab1)
-- add readme [`b21c2fd6`](https://github.com/AlexxNB/tinro/commit/b21c2fd6aa2e8607e5c8616b2b6168f1539f33e7)
-- add fallback tests [`26e1d8ec`](https://github.com/AlexxNB/tinro/commit/26e1d8ec9f43b3e634c19c7496acb8100137a5f4)
-- add links test [`8544cad1`](https://github.com/AlexxNB/tinro/commit/8544cad1cf2a3522b1f53213eb9864f686c30e3b)
-- add helpers in page object [`1bcb3754`](https://github.com/AlexxNB/tinro/commit/1bcb3754efa115df5d4d32b35f724f7477640114)
-- add some tests [`5c749e36`](https://github.com/AlexxNB/tinro/commit/5c749e3698fd98050df8cb967cc998c994f84f65)
-- new tests stack using tape-modern+puppeteer [`148e0940`](https://github.com/AlexxNB/tinro/commit/148e0940335a9c94d419145b0f197176811bd6df)
-- Move redirect to separate test [`f8e0eafb`](https://github.com/AlexxNB/tinro/commit/f8e0eafb57266307266d4a3244d2dff0255ab8eb)
-- make compare result generation [`45743cf1`](https://github.com/AlexxNB/tinro/commit/45743cf12e5fb5576d7e76017929aeb9118c131b)
-- add test for page loading [`1113a4b0`](https://github.com/AlexxNB/tinro/commit/1113a4b0e7f2d3828379f9f994798ae398677b2e)
-- break test on pieces in set directory [`df6d3c2b`](https://github.com/AlexxNB/tinro/commit/df6d3c2bf5bdb4accbeb03cfa7a730b1ff18021c)
-- setup test tooling [`38ecfce6`](https://github.com/AlexxNB/tinro/commit/38ecfce6913aa00316e6e34b8197e6eb2c6d9b46)
-- compare setup to determine the value of the tinro [`6ca0989a`](https://github.com/AlexxNB/tinro/commit/6ca0989a82b1830961935f5bbec7f08f8223dcd6)
-- add some tests [`9236630d`](https://github.com/AlexxNB/tinro/commit/9236630da261a5324199886707b68a98fa79b5d5)
-- fix non exact redirects [`66ce24e1`](https://github.com/AlexxNB/tinro/commit/66ce24e11f9db4d26ad22c2c290b5fdfb3773e55)
-- fix redirect [`3a0f1727`](https://github.com/AlexxNB/tinro/commit/3a0f1727dce6662abadff5518dae64da4a877e3e)
-- add redirect property [`86804cca`](https://github.com/AlexxNB/tinro/commit/86804cca7a7c700514f8cca4fceabf4043791478)
-- remove test bundles from git [`84a70394`](https://github.com/AlexxNB/tinro/commit/84a703941e2699c91c1cd71358d806f1b3fadd9b)
-- add params in router [`a6bcb8ae`](https://github.com/AlexxNB/tinro/commit/a6bcb8ae6a64b20d53fa6a7942156031d831a470)
-- some refactoring [`e3bec591`](https://github.com/AlexxNB/tinro/commit/e3bec59181670cb5a3ec43959f6f268c1db90609)
-- rebrending [`3dd8f2b9`](https://github.com/AlexxNB/tinro/commit/3dd8f2b9ce930d75cfca3aa13814421a96267b2e)
-- initial commit [`d192b741`](https://github.com/AlexxNB/tinro/commit/d192b741306d5ee9a6ce1590379c73548bb8716c)
-- Initial commit [`c9a025a2`](https://github.com/AlexxNB/tinro/commit/c9a025a21b61201326271e0a93767bf0e7bfd60f)
+- add hash navigation method [`400e5314`](https://github.com/WebpassionStar/tinro-svelte-app/commit/400e5314f02b855408253cd79bb9988d28c373bc)
+- edit Readme [`78fd5291`](https://github.com/WebpassionStar/tinro-svelte-app/commit/78fd529142356be9af94b91b57b1ea99aa60e00d)
+- fix error message [`4f1f0571`](https://github.com/WebpassionStar/tinro-svelte-app/commit/4f1f057169364ce8e346f08e526f277bd3bfc557)
+- impliment unholded rejection in script [`2931991c`](https://github.com/WebpassionStar/tinro-svelte-app/commit/2931991c9545633f2ca9f745616cb1a5186fa185)
+- fix unkilled dev server [`41a4be31`](https://github.com/WebpassionStar/tinro-svelte-app/commit/41a4be31c7febbb1dcf4bdf891d6109f6a2cd946)
+- fail test on error with promises [`2896df05`](https://github.com/WebpassionStar/tinro-svelte-app/commit/2896df054543230022ac90b786e4a42a7c196d12)
+- add npm publish workflow [`6acc9398`](https://github.com/WebpassionStar/tinro-svelte-app/commit/6acc9398aa8ddf3a43a6ac72494f1fbdcfbcd87d)
+- fix import for Route [`bf91b5aa`](https://github.com/WebpassionStar/tinro-svelte-app/commit/bf91b5aae81623db3b78d997acf6afbe1f733f79)
+- add table of contents [`b1fd9ca2`](https://github.com/WebpassionStar/tinro-svelte-app/commit/b1fd9ca22f94aacfd00e135eaa77ff3658c7a794)
+- add install chapter [`69e9346b`](https://github.com/WebpassionStar/tinro-svelte-app/commit/69e9346b889fa6f112707e866801eaaa24d85bec)
+- add readme [`1f528f2d`](https://github.com/WebpassionStar/tinro-svelte-app/commit/1f528f2db7c8b527b47d48edaff645d86b679284)
+- add fallback tests [`a07c98d2`](https://github.com/WebpassionStar/tinro-svelte-app/commit/a07c98d215cd3a4d68fc005211b4c4cd03263ac0)
+- add links test [`3ee12b1f`](https://github.com/WebpassionStar/tinro-svelte-app/commit/3ee12b1fbfaeaa91028a9adfa3bb76d60f7a18b9)
+- add helpers in page object [`eb3fd195`](https://github.com/WebpassionStar/tinro-svelte-app/commit/eb3fd195d4861ef761ae5c8d98d273564b8df398)
+- add some tests [`89e46c05`](https://github.com/WebpassionStar/tinro-svelte-app/commit/89e46c051f5ba9f7c59cf76ece21dd65b11c26c0)
+- new tests stack using tape-modern+puppeteer [`40eb6f98`](https://github.com/WebpassionStar/tinro-svelte-app/commit/40eb6f9874fadf4eac44c195f70a9c71397dce20)
+- Move redirect to separate test [`0e321442`](https://github.com/WebpassionStar/tinro-svelte-app/commit/0e32144249c81d6e548b912974f95423c99286c4)
+- make compare result generation [`566ed332`](https://github.com/WebpassionStar/tinro-svelte-app/commit/566ed3327ab475619f6eac8dc4963b069340164d)
+- add test for page loading [`7497589a`](https://github.com/WebpassionStar/tinro-svelte-app/commit/7497589a4819d92cf92a17f2ca87657d01b57604)
+- break test on pieces in set directory [`4387ab9b`](https://github.com/WebpassionStar/tinro-svelte-app/commit/4387ab9bea0639228d018d411671e49e9ac75036)
+- setup test tooling [`d5e9d72e`](https://github.com/WebpassionStar/tinro-svelte-app/commit/d5e9d72ebfe1fa131b642dd85f6518ef64f339cf)
+- compare setup to determine the value of the tinro [`504c952b`](https://github.com/WebpassionStar/tinro-svelte-app/commit/504c952b127957da22c242f8012b3a4b2540ba40)
+- add some tests [`f9db3329`](https://github.com/WebpassionStar/tinro-svelte-app/commit/f9db3329b63d0ba482e24bff760c730c875304d8)
+- fix non exact redirects [`7fa3abdd`](https://github.com/WebpassionStar/tinro-svelte-app/commit/7fa3abdd9db16b1e65bed026a99ea43ea2ca21ee)
+- fix redirect [`12ec47bc`](https://github.com/WebpassionStar/tinro-svelte-app/commit/12ec47bc4173a2d020e93c49c598382f6a07f1da)
+- add redirect property [`385302c8`](https://github.com/WebpassionStar/tinro-svelte-app/commit/385302c81f02747dc47687a91c5ee20d425e0851)
+- remove test bundles from git [`7494cc92`](https://github.com/WebpassionStar/tinro-svelte-app/commit/7494cc923a634f4a3c7842e5158ccc7622ad2c9a)
+- add params in router [`71d4252b`](https://github.com/WebpassionStar/tinro-svelte-app/commit/71d4252b1cf1253beb519c46ed74b1d4db590c42)
+- some refactoring [`efa465f2`](https://github.com/WebpassionStar/tinro-svelte-app/commit/efa465f2f78d92aa3902a1a19d431d76ff184780)
+- rebrending [`a058da0a`](https://github.com/WebpassionStar/tinro-svelte-app/commit/a058da0ac5231b125c4942a3af385b08fe59cccb)
+- initial commit [`6119fb8d`](https://github.com/WebpassionStar/tinro-svelte-app/commit/6119fb8db6be396e231b79949a2c2a7c4fdb4431)
+- Initial commit [`bdd75907`](https://github.com/WebpassionStar/tinro-svelte-app/commit/bdd75907b75e03096a75c236aa9c7f4b4d51e34e)
